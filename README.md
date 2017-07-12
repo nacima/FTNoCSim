@@ -8,4 +8,4 @@ FTNoCSim can be used to  explore basic concepts of NoC or assess new designs in 
 For further informations please refer to the following files:
 - INSTALL.txt: instructions to install the tool
 - AUTHORS.txt: authors of the tool
-- LICENSE.txt: license under which you are allowed to use the source files
+
